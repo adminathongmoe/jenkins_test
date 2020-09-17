@@ -1,4 +1,4 @@
-../../AndroidProject/UnityTest
+cd ../../AndroidProject/UnityTest
 
 pwd
 
