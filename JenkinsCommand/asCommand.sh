@@ -1,5 +1,8 @@
 cd ../../AndroidProject/UnityTest
 
-pwd
+chmod +x gradle
+chmod +x gradlew
 
 gradle wrapper
+
+./gradlew assembleRelease
